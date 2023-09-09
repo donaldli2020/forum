@@ -11,4 +11,13 @@
   width: calc(50% - 32px);
   height: calc(25vw - 32px);
   border-radius: 5px;
+  display: block;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
 }
