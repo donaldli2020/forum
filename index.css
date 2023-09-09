@@ -3,3 +3,12 @@
   margin-right: 25%;
   font-family: "Noto Sans", Roboto, Arial, sans-serif;
 }
+
+.message {
+  margin: 10px;
+  border: 2px;
+  padding: 10px;
+  width: calc(50% - 48px);
+  height: calc(25vw - 48px);
+  border-radius: 5px;
+}
