@@ -5,11 +5,11 @@
 }
 
 .message {
-  margin: 10px;
+  margin: 5px;
+  border: 1px;
   padding: 10px;
-  width: calc(50% - 48px);
-  height: calc(25vw - 48px);
-  border-width: 2px;
+  width: calc(50% - 32px);
+  height: calc(25vw - 32px);
   border-color: black;
   border-radius: 5px;
 }
